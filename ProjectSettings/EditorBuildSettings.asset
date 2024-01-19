@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AssetsOpraveno/AssetsOpraveno/Scenes/Hra-sceny/LvlMenu.unity
+    guid: 97778f2a627ef544284eb338af697a9a
+  - enabled: 1
+    path: Assets/AssetsOpraveno/AssetsOpraveno/Scenes/Hra-sceny/Level1.1.unity
+    guid: 7e5abf6ddac093e458e03fac07564f7e
+  - enabled: 1
+    path: Assets/AssetsOpraveno/AssetsOpraveno/Scenes/Hra-sceny/Level2.unity
+    guid: ee2f1ecbb1207954cb5e39c41c59871b
+  - enabled: 1
+    path: Assets/AssetsOpraveno/AssetsOpraveno/Scenes/Hra-sceny/Level3.1.unity
+    guid: c25f2551e7890f1409491c2f453db5c8
+  - enabled: 1
+    path: Assets/AssetsOpraveno/AssetsOpraveno/Scenes/Hra-sceny/ShopScene.unity
+    guid: bde1cc308fd0f0946860eebf01c8c2aa
+  m_configObjects: {}
